@@ -8,7 +8,7 @@ public class HelloController {
 	@RequestMapping("/hello")
 	public String sayHi()
 	{
-	 return "hi";
+	 return "hi this show me changes in file";
 	}
 	
 }
