@@ -10,3 +10,4 @@ hibernate orm
 first create class 
 define attributes and create getter and setters
 interface for db repository
+add dirctely from post 
