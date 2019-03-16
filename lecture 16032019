@@ -1,0 +1,11 @@
+application are developed for record keeping
+web container request responding
+service layer after controller
+model after service
+model attach with db
+thymeleaf
+page rendering: transformation of data to html on server
+thymeleaf logon page
+types of relations one to many, one to one, many to many
+company and users example
+company (companyid, name) users (userid, name, pwd, company id)
